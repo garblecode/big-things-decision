@@ -99,7 +99,7 @@
 
 ## 版本信息
 
-- **版本**：v5.0（乱码字字符优化版）
+- **版本**：v5.0（乱码字符优化版）
 - **基于**：傅以斌《How Big Things Get Done》（2023）
 - **搜索**：[AnySearch](https://github.com/anysearch-ai/anysearch-skill) v2.0
 - **数据基础**：傅以斌16,000+项目实证数据库
