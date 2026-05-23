@@ -714,6 +714,6 @@
 
 ---
 
-> 基于：傅以斌《How Big Things Get Done》及用户笔记《0511怎样做成大事_笔记(1)》
+> 基于：傅以斌《How Big Things Get Done》[乱码字符](https://blog.csdn.net/tombosky)及笔记《乱码字符怎样做成大事》
 > 搜索能力：[AnySearch](https://github.com/anysearch-ai/anysearch-skill) v2.0
-> 版本：v5.0（产品经理优化版）
+> 版本：v1.0（[乱码字符](https://blog.csdn.net/tombosky)）
